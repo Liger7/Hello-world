@@ -2,6 +2,6 @@
 ==========================
 
 Hi! I'm newbie for Github community, not so sure how to use it.
-I'm a beginner of Java coder.
+I'm a beginner of Java coder from Thailand.
 
 
